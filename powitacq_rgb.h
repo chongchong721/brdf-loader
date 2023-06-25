@@ -144,6 +144,6 @@ POWITACQ_NAMESPACE_END
 #  define POWITACQ_CLIP_RGB 1
 #endif
 
-#ifdef POWITACQ_IMPLEMENTATION
+//#ifdef POWITACQ_IMPLEMENTATION
 #  include "powitacq_rgb.inl"
-#endif
+//#endif

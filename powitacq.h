@@ -135,6 +135,6 @@ private:
 
 POWITACQ_NAMESPACE_END
 
-#ifdef POWITACQ_IMPLEMENTATION
+//#ifdef POWITACQ_IMPLEMENTATION
 #  include "powitacq.inl"
-#endif
+//#endif
